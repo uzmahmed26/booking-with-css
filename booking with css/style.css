@@ -1,0 +1,109 @@
+
+   
+  *{
+      background-color: rgb(153, 214, 247);  
+    }
+    
+    nav{
+      align-items: center;
+      height: 80px;
+      width: 100%;
+      
+    }
+  
+    nav ul{
+      float: center;
+      margin-right: 20px;
+    }
+    nav ul li{
+      display: inline-block;
+      line-height: 80px;
+      margin: 0 5px;
+    }
+    nav ul li a{
+    font: size 17px;
+      padding: 7px 13px;
+      border-radius: 30px;
+      text-transform:uppercase;
+      color:rgb(47, 18, 212)
+    
+    }
+    a.active,a:hover{
+      background: #1b9bff;
+      transition: .5s;
+    }
+    table, th, tr, td
+    {border:1px solid rgb(174, 162, 171);
+      border-collapse: collapse;
+    }
+    table{
+      width:80%
+      height: 90px;
+      text-align:center;
+    }
+    th{
+      background-color: rgb(38, 107, 203);
+      font-size: 20px;
+      margin: 4px;
+   font-family: Georgia, 'Times New Roman', Times, serif;  
+   color:rgb(64, 194, 214)    
+    }
+    table.center{
+      margin-left: auto;
+      margin-right: auto;
+    }
+    h1{
+     background-color: rgb(7, 112, 187);
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     color: rgb(154, 218, 239);
+      text-align: center;
+     }
+     h2{
+    
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      color:#0082e6;
+     }
+     h3{
+      background-color: rgb(7, 112, 187);
+      font-family:sans-serif;
+      color: rgb(154, 218, 239);
+     }
+  
+    .btn1 {
+      background-color: rgb(113, 184, 27);
+      border-radius: 6px;
+    }
+    .btn2 {
+      background-color: rgb(205, 15, 37);
+      border-radius: 6px;
+    }
+     .btn3 {
+      background-color: rgb(113, 184, 27);
+      border-radius: 6px;
+     }
+     .btn4 {
+      background-color: rgb(205, 15, 37);
+      border-radius: 6px;
+     }
+     .btn5{
+      background-color: rgb(113, 184, 27);
+      border-radius: 6px;
+     }
+     .btn6 {
+      background-color: rgb(205, 15, 37);
+      border-radius: 6px;
+     }
+    td{
+      background-color: rgb(30, 216, 233);
+      font-family:Arial, Helvetica, sans-serif;
+      color: rgb(13, 81, 29)
+    }
+    .search{
+      border-radius: 6px;
+      background-color: #bccee1;
+      
+    }
+    td:hover{
+      background-color: rgb(141, 202, 231);
+    }
+    
